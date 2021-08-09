@@ -15,4 +15,5 @@ if (currentTheme === theme.DARK) {
     refs.checkbox.checked = true;
 }
 
+
 refs.checkbox.addEventListener('change', handleChangeTheme);
