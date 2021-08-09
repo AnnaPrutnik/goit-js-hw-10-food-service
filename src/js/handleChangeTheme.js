@@ -9,4 +9,5 @@ export default function handleChangeTheme() {
     }
     refs.body.classList.toggle(theme.LIGHT);
     refs.body.classList.toggle(theme.DARK);
+    
 }
